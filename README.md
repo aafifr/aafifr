@@ -30,6 +30,16 @@ I build end-to-end digital products with an emphasis on system reliability, type
 
 ---
 
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 <p align="left">
   <sub>Available for software engineering roles, high-impact freelance projects, and technical collaborations worldwide.</sub>
 </p>
