@@ -4,6 +4,14 @@ Fullstack Developer & AI Automation Engineer based in Indonesia. Focused on engi
 
 [Website](https://www.afiframadhan.my.id) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/afifrmdhn) &nbsp;•&nbsp; [Email](mailto:afifr5092@gmail.com) &nbsp;•&nbsp; [Instagram](https://instagram.com/aafif.r)
 
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 
 ### Engineering Focus
@@ -27,16 +35,6 @@ I build end-to-end digital products with an emphasis on system reliability, type
 
 **Automation & Infrastructure**  
 `n8n` `Claude API` `Gemini API` `Groq` `OpenAI` `IndexedDB` `Socket.IO` `Git` `Linux` `Vercel`
-
----
-
-### Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
